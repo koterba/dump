@@ -1,0 +1,6 @@
+import burtle
+
+ball = burtle.Burtle("black_circle")
+ball.default_keys()
+
+burtle.run()
