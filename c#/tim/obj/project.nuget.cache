@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "uDxDKx3YYXu+RTdZxZ+K5Scj6pfikW1KbFsIDNiRYtWomFJr52nIlyUVZuTw/yRJz/rlZkvL7eMeUon+Ra6oXA==",
+  "success": true,
+  "projectFilePath": "E:\\Programming\\CS\\tim\\tim.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\koter\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\koter\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
